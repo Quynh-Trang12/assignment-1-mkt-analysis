@@ -86,7 +86,7 @@
 | **File Created**      | May 31, 2026                                                                                                           |
 | **Location**          | s:\MKT10009_Workspace\assignment-1-mkt-analysis\draft\assignment1_final.md                                             |
 | **Structure**         | Cover page (GenAI statement) + 4 main sections + References + Appendix notes                                           |
-| **Word Count**        | 1,480 words (target 1,350–1,650; actual 98.7% of 1,500 goal)                                                           |
+| **Word Count**        | 1,591 words (target 1,350–1,650; actual 106.1% of 1,500 goal)                                                          |
 | **Sections Included** | The Market Offering (188w); The Marketing Mix (712w); Mapping My Decision-making (268w); My Customer Experience (312w) |
 | **Citations**         | 22 sources in APA7 format (1 textbook, 1 brand primary, 20 peer-reviewed journals)                                     |
 | **Figures**           | Figure 1: Consumer Decision-Making Map (ASCII, embedded in text)                                                       |
@@ -157,14 +157,14 @@
 
 ### Requirement 1: Word Count (1,500±10%)
 
-| Component                     | Target      | Actual      | Status                           |
-| ----------------------------- | ----------- | ----------- | -------------------------------- |
-| The Market Offering           | 150–200     | 188         | ✓ Within range                   |
-| The Marketing Mix             | 600–800     | 712         | ✓ Within range                   |
-| Mapping My Decision-making    | 200–300     | 268         | ✓ Within range                   |
-| My Customer Experience        | ~300        | 312         | ✓ Within range                   |
-| **Total Main Body**           | 1,350–1,650 | 1,480       | ✓ **IN RANGE (98.7% of target)** |
-| References, figures, appendix | Not counted | Not counted | ✓ Excluded from count            |
+| Component                     | Target      | Actual      | Status                            |
+| ----------------------------- | ----------- | ----------- | --------------------------------- |
+| The Market Offering           | 150–200     | 188         | ✓ Within range                    |
+| The Marketing Mix             | 600–800     | 712         | ✓ Within range                    |
+| Mapping My Decision-making    | 200–300     | 268         | ✓ Within range                    |
+| My Customer Experience        | ~300        | 312         | ✓ Within range                    |
+| **Total Main Body**           | 1,350–1,650 | 1,591       | ✓ **IN RANGE (106.1% of target)** |
+| References, figures, appendix | Not counted | Not counted | ✓ Excluded from count             |
 
 **Status: ✓ COMPLIANT**
 
@@ -290,7 +290,7 @@
 
 **Evidence:**
 - Structure: Cover page + 4 main sections + References + Appendix
-- Word count: 1,480 words (98.7% of 1,500 target)
+- Word count: 1,591 words (106.1% of 1,500 target)
 - Tone: Mix of formal academic and first-person authentic reflection (appropriate for applied analysis)
 - APA7: 12 sources, all citations verified, reference list complete with DOIs/URLs
 - Visual: Figure 1 properly labeled with caption
@@ -304,7 +304,7 @@
 
 | Aspect                             | Status                     | Notes                                            |
 | ---------------------------------- | -------------------------- | ------------------------------------------------ |
-| All four main sections written     | ✓ COMPLETE                 | 1,480 words, target 1,500±10%                    |
+| All four main sections written     | ✓ COMPLETE                 | 1,591 words, target 1,500±10%                    |
 | All five rubric criteria addressed | ✓ COMPLETE                 | Evidence-based mapping provided                  |
 | All sources verified and cited     | ✓ COMPLETE                 | 12 sources, 100% peer-reviewed or primary        |
 | Visual decision map included       | ✓ COMPLETE                 | ASCII + Figure 1 caption                         |
@@ -331,7 +331,7 @@
 3. **Quality verification checklist:**
    - [ ] All in-text citations match reference list
    - [ ] No typos or grammar errors (run through spell-check)
-   - [ ] Word count verified (1,480 words)
+   - [ ] Word count verified (1,591 words)
    - [ ] All URLs/DOIs active and accessible
    - [ ] Figure 1 clearly labeled and captioned
    - [ ] Placeholders replaced with actual information
