@@ -1,0 +1,2 @@
+# Exclude the large textbook from Copilot chat context to avoid oversized requests
+docs/book/**
