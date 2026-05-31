@@ -5,6 +5,8 @@ build
 # Logs
 logs
 *.log
+*.json
+*.pdf
 
 # Dependency directories
 node_modules/
@@ -54,3 +56,6 @@ public
 .idea/
 .DS_Store
 *.sublime-workspace
+
+# ARS skills files
+.claude/
