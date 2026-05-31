@@ -18,19 +18,19 @@ This guide is divided into **5 Phases**. Each phase has numbered steps. Every st
 
 Before you start, understand what tools are already configured in your `settings.json` and how they contribute to this assignment:
 
-| Tool | What It Is | How It Helps This Assignment |
-|------|-----------|------------------------------|
-| **GitHub Copilot Chat (GPT-4.1)** | Your AI assistant inside VS Code | Drafts, analyses, cites, and edits your assignment text |
-| **`tavily-mcp`** | Real-time web search engine for AI | Finds current prices, promotions, and brand news about Cozy |
-| **`firecrawl/firecrawl-mcp-server`** | Web page scraper — reads full page content | Extracts product data directly from cozy.vn, lottemart.vn, and Shopee product pages |
-| **`playwright-mcp`** | Headless browser — navigates and clicks web pages | Opens and reads JavaScript-rendered pages such as Shopee listings |
-| **`paper-search-mcp`** | Academic paper search (Semantic Scholar / arXiv) | Finds peer-reviewed sources on FMCG distribution, pricing strategy, and tea consumer behaviour |
-| **`consensus`** | Evidence-based answer engine from research papers | Answers "what does the research say about..." questions with citations |
-| **`sequential-thinking`** | Structured step-by-step reasoning tool | Forces Copilot to reason through complex analyses logically before writing |
-| **`context7`** | Fetches up-to-date documentation | Useful for verifying academic framework definitions |
-| **Markdown Preview** (`Ctrl+Shift+V`) | Renders your `.md` files as formatted documents | Write and preview your assignment in real time |
-| **Auto Save** | Already enabled in your settings | Never lose your work |
-| **`filesystem` MCP** | Reads and writes files in your project folder | Saves Copilot outputs directly into your `.md` files in the GitHub repo |
+| Tool                                  | What It Is                                        | How It Helps This Assignment                                                                   |
+| ------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **GitHub Copilot Chat (GPT-4.1)**     | Your AI assistant inside VS Code                  | Drafts, analyses, cites, and edits your assignment text                                        |
+| **`tavily-mcp`**                      | Real-time web search engine for AI                | Finds current prices, promotions, and brand news about Cozy                                    |
+| **`firecrawl/firecrawl-mcp-server`**  | Web page scraper — reads full page content        | Extracts product data directly from cozy.vn, lottemart.vn, and Shopee product pages            |
+| **`playwright-mcp`**                  | Headless browser — navigates and clicks web pages | Opens and reads JavaScript-rendered pages such as Shopee listings                              |
+| **`paper-search-mcp`**                | Academic paper search (Semantic Scholar / arXiv)  | Finds peer-reviewed sources on FMCG distribution, pricing strategy, and tea consumer behaviour |
+| **`consensus`**                       | Evidence-based answer engine from research papers | Answers "what does the research say about..." questions with citations                         |
+| **`sequential-thinking`**             | Structured step-by-step reasoning tool            | Forces Copilot to reason through complex analyses logically before writing                     |
+| **`context7`**                        | Fetches up-to-date documentation                  | Useful for verifying academic framework definitions                                            |
+| **Markdown Preview** (`Ctrl+Shift+V`) | Renders your `.md` files as formatted documents   | Write and preview your assignment in real time                                                 |
+| **Auto Save**                         | Already enabled in your settings                  | Never lose your work                                                                           |
+| **`filesystem` MCP**                  | Reads and writes files in your project folder     | Saves Copilot outputs directly into your `.md` files in the GitHub repo                        |
 
 ---
 
@@ -498,21 +498,19 @@ Additionally, for Stage 4 (Purchase Decision) specifically:
 - Identify whether this purchase would be a TRIAL purchase, REPEAT purchase, or LONG-TERM COMMITMENT purchase (as defined in Armstrong et al., 2021), and justify your answer given that Cozy is a widely available, affordable, mass-market product
 - Identify 2 realistic factors that could disrupt the purchase intention before the final decision is made: (1) attitudes of others and (2) unexpected situational factors — provide specific examples relevant to this product and retail context
 
-### TASK 2 — Canva Visual Map Instructions (Step-by-step)
-Provide exact instructions to create the visual Consumer Decision-Making Map using Canva Free (canva.com). The map specifications are:
+### TASK 2 — Miro Visual Map Instructions (Step-by-step)
+Provide exact instructions to create the visual Consumer Decision-Making Map using Miro Free (miro.com/apps). The map specifications are:
 - Layout: 5 boxes connected by rightward arrows, arranged horizontally in a single row
 - Each box contains: one icon/emoji at the top, the stage name in bold (5–7pt), and a 3–5 word descriptive phrase below
 - Colour scheme: use Cozy brand colours — yellow/gold (#F5C518 or similar) for box fills, dark navy or charcoal (#1A2035) for text, white arrows between boxes
 - Style: clean, minimal, professional — suitable for a first-year university assignment
 
 Instructions must include:
-- Step 1: How to open Canva and start a new design (recommended canvas size)
-- Step 2: How to create the first box and style it
-- Step 3: How to add free icons from Canva's icon library (search terms to use for each stage)
-- Step 4: How to duplicate the box 4 times and add arrows between them
-- Step 5: How to add the stage names and short text to each box
-- Step 6: How to export the final image (PNG, 300 DPI if possible)
-- Step 7: How to insert the exported PNG into a Word document as "Figure 2" with a caption
+- Step 1: How to create the first box and style it
+- Step 3: How to add free icons to Miro's icon library (search terms to use for each stage)
+- Step 4: What arrows to add between boxes
+- Step 5: What stage names and short text to each box should be added
+- Step 6: What caption should be used for "Figure 2" to insert to a Word document
 
 ### TASK 3 — Sensorial CX Analysis for Lotte Mart Đà Nẵng
 
@@ -724,7 +722,7 @@ Exceeds Expectations requires: Well-structured with clear headings. Main body wo
 For each of the 5 criteria, assess the draft and produce the following table:
 
 | Criterion | Current Assessment | Specific Gap(s) | Required Action |
-|-----------|-------------------|-----------------|-----------------|
+| --------- | ------------------ | --------------- | --------------- |
 
 Assess each criterion as one of:
 - ✅ Exceeds Expectations — fully satisfied, no gaps
@@ -845,19 +843,19 @@ Use the filesystem MCP tool to overwrite `03_assignment_draft.md` with the revis
 
 When you visit Lotte Mart Đà Nẵng (Floor 1, Unit 1F-09, 06 Nại Nam Street), spend 10–15 minutes collecting the following. Take brief notes on your phone.
 
-| What to observe | Why it matters in the assignment |
-|----------------|----------------------------------|
-| Exact shelf price on the price tag (VND) | Replaces placeholder in Section 2 Price |
-| Photograph of product on the shelf — product only, no people | Required for Section 1 (must be your own photo) |
-| Which floor, which aisle, aisle number if labelled | In-store placement analysis, Section 2 Placement |
-| Shelf height: top row, eye-level, mid-shelf, or bottom row | Shelf placement strategy analysis |
-| Products immediately to the left and right, above and below | Shelf adjacencies — competitive context |
-| Any promotional stickers, price-off tags, or multi-buy labels on the product | Sales promotion evidence for Section 2 Promotion |
-| Any branded display unit, shelf divider, or shelf talker for Cozy | Visual merchandising evidence |
-| What you see in the aisle: lighting quality, signage, product density on shelves | Visual sense for Section 4 |
-| What you hear in the store at that time | Auditory sense for Section 4 |
-| What you smell near the aisle | Olfactory sense for Section 4 |
-| What the box feels like when you pick it up | Tactile sense for Section 4 |
+| What to observe                                                                  | Why it matters in the assignment                 |
+| -------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Exact shelf price on the price tag (VND)                                         | Replaces placeholder in Section 2 Price          |
+| Photograph of product on the shelf — product only, no people                     | Required for Section 1 (must be your own photo)  |
+| Which floor, which aisle, aisle number if labelled                               | In-store placement analysis, Section 2 Placement |
+| Shelf height: top row, eye-level, mid-shelf, or bottom row                       | Shelf placement strategy analysis                |
+| Products immediately to the left and right, above and below                      | Shelf adjacencies — competitive context          |
+| Any promotional stickers, price-off tags, or multi-buy labels on the product     | Sales promotion evidence for Section 2 Promotion |
+| Any branded display unit, shelf divider, or shelf talker for Cozy                | Visual merchandising evidence                    |
+| What you see in the aisle: lighting quality, signage, product density on shelves | Visual sense for Section 4                       |
+| What you hear in the store at that time                                          | Auditory sense for Section 4                     |
+| What you smell near the aisle                                                    | Olfactory sense for Section 4                    |
+| What the box feels like when you pick it up                                      | Tactile sense for Section 4                      |
 
 ---
 
@@ -997,17 +995,17 @@ If Pandoc is not installed, run `winget install pandoc` in PowerShell, or downlo
 
 ## QUICK REFERENCE — ALL 9 PROMPTS
 
-| # | Prompt Name | Primary MCP Tools Used | Output Saved To |
-|---|-------------|------------------------|-----------------|
-| 1 | Cozy Brand, Product Details & Market Context | firecrawl, playwright-mcp, tavily-mcp | 01_research_raw.md |
-| 2 | Price Data, Competitor Comparison & Shelf Placement | firecrawl, tavily-mcp | 01_research_raw.md |
-| 3 | Promotions & Digital Marketing Research | firecrawl, tavily-mcp | 01_research_raw.md |
-| 4 | Academic Literature for 4Ps & CX Frameworks | paper-search-mcp, consensus, tavily-mcp | 02_analysis_notes.md |
-| 5 | Consumer Decision Process & Sensorial CX Draft | sequential-thinking, tavily-mcp, paper-search-mcp | 02_analysis_notes.md |
-| 6 | Full Assignment Draft (Sections 1–4 + References) | filesystem | 03_assignment_draft.md |
-| 7 | Rubric Audit & Gap Analysis | filesystem, sequential-thinking | 02_analysis_notes.md |
-| 8 | Targeted Revision — Apply All Audit Fixes | filesystem, sequential-thinking | 03_assignment_draft.md |
-| 9 | Post-Visit Personalisation & Final Submission Check | filesystem, sequential-thinking | 03_assignment_draft.md |
+| #   | Prompt Name                                         | Primary MCP Tools Used                            | Output Saved To        |
+| --- | --------------------------------------------------- | ------------------------------------------------- | ---------------------- |
+| 1   | Cozy Brand, Product Details & Market Context        | firecrawl, playwright-mcp, tavily-mcp             | 01_research_raw.md     |
+| 2   | Price Data, Competitor Comparison & Shelf Placement | firecrawl, tavily-mcp                             | 01_research_raw.md     |
+| 3   | Promotions & Digital Marketing Research             | firecrawl, tavily-mcp                             | 01_research_raw.md     |
+| 4   | Academic Literature for 4Ps & CX Frameworks         | paper-search-mcp, consensus, tavily-mcp           | 02_analysis_notes.md   |
+| 5   | Consumer Decision Process & Sensorial CX Draft      | sequential-thinking, tavily-mcp, paper-search-mcp | 02_analysis_notes.md   |
+| 6   | Full Assignment Draft (Sections 1–4 + References)   | filesystem                                        | 03_assignment_draft.md |
+| 7   | Rubric Audit & Gap Analysis                         | filesystem, sequential-thinking                   | 02_analysis_notes.md   |
+| 8   | Targeted Revision — Apply All Audit Fixes           | filesystem, sequential-thinking                   | 03_assignment_draft.md |
+| 9   | Post-Visit Personalisation & Final Submission Check | filesystem, sequential-thinking                   | 03_assignment_draft.md |
 
 ---
 
